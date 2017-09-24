@@ -1,5 +1,5 @@
 # VT100-Examples
-Examples of Windows' new console VT100 emulation features
+Examples of Windows' new console's VT100 emulation features
 
 *Colors* is a demonstration of control sequences to set foreground/background colors, with a nice and handy color palette reference.
 
